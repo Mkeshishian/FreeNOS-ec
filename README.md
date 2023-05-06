@@ -1,1 +1,0 @@
-# FreeNOS-ec
